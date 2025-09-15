@@ -1,4 +1,4 @@
-'use strict'
+'use strict'  //
 
 /**
  * 검색창 제어. 
